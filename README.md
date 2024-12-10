@@ -1,2 +1,3 @@
-# template
-Template for new repo
+# Recursion
+
+Recursion lesson assignment from The Odin Project
